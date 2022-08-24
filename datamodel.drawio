@@ -1,1 +1,39 @@
-<mxfile modified="2022-08-24T07:00:45.705Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_sKq-WrFB92YocTQHTzD" version="20.2.7" type="github"><diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">dZHBDoIwDIafZvexGcUzolw8cfC8sMqWDErGDOjTC9kQFzTZofv+v+vaEp4148WKTl1RgiGMypHwE2Es2TFG5kPl05OUBlBbLYNpBaV+QYA00IeW0EdGh2ic7mJYYdtC5SImrMUhtt3RxFU7UcMGlJUwW3rT0qlAk/1xFQrQtQqlU3bwQiMWc+ikV0Li8IV4TnhmEZ2PmjEDMw9vmYvPO/9RPx+z0LofCVOwvj1dog3x/A0=</diagram></mxfile>
+<mxfile modified="2022-08-24T07:19:46.670Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZSfiZPQkX7i600eRc2gj" version="20.2.7" type="github" pages="2">
+  <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
+    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9MOItr1PDufZncNlchUg-1" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;customer&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;customerId&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;customerName&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;customerAddress1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;customerAddress2&lt;br&gt;customerAddress3&lt;br&gt;customerStreetNumber&lt;br&gt;customerPostalCode&lt;br&gt;customer&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;test&lt;br&gt;Test2&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="70" width="180" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yuEUBxv1yvjEpiXQRufT" name="Pagina-2">
+    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S285I1FMITsib0u7K-zu-6" value="Customer&lt;br&gt;addressData" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="20" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="S285I1FMITsib0u7K-zu-7" value="Payment method&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="20" width="110" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="S285I1FMITsib0u7K-zu-9" value="Sales&lt;br&gt;SalesItem&lt;br&gt;Date&lt;br&gt;Amount&lt;br&gt;Item" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="490" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="S285I1FMITsib0u7K-zu-10" value="Invoice&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="74" y="120" width="316" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="S285I1FMITsib0u7K-zu-11" value="SalesItem&lt;br&gt;Description&lt;br&gt;desc2&lt;br&gt;Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="490" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="S285I1FMITsib0u7K-zu-12" value="VAT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="490" width="120" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
